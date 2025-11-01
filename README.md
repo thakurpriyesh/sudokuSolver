@@ -50,28 +50,4 @@ sudoku-solver-tkinter/
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo and create your branch
-   git checkout -b feature/my-feature
-
-2. Commit your changes
-   git commit -m "Add feature"
-
-3. Push to the branch and open a pull request
-
 Feel free to open issues or suggest improvements.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see LICENSE for details.
-
----
-
-## ✍️ Author
-
-**Priyesh** – *Computer Science Student*
-Connect with me on LinkedIn: https://www.linkedin.com/in/priyesh-thakur-514a86279/
-Happy coding! 🚀
